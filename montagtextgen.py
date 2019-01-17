@@ -7,4 +7,4 @@ output = textgen.generate()
 print(output)
 
 with open('montagrnntext.txt', 'w') as file:
-    file.write(output)
+    file.write(str(output))
