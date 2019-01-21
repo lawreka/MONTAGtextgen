@@ -1,7 +1,7 @@
 from textgenrnn import textgenrnn
 
 textgen = textgenrnn()
-textgen.train_from_file('montagtext.txt', num_epochs=1)
+textgen.train_from_file('montagtext.txt', num_epochs=6)
 output = textgen.generate()
 
 print(output)
