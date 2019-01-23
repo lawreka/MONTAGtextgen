@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-251000"
+all_model_checkpoint_paths: "model-230920"
+all_model_checkpoint_paths: "model-235940"
+all_model_checkpoint_paths: "model-240960"
+all_model_checkpoint_paths: "model-245980"
+all_model_checkpoint_paths: "model-251000"
